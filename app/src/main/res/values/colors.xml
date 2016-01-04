@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- 应用的整体的背景色 -->
+    <color name="default_app_color">#F3F3F3</color>
+    <!-- 文字颜色 -->
+    <color name="default_text_color">#353535</color>
+</resources>
